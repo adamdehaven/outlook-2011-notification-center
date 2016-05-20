@@ -1,7 +1,7 @@
 # Integrate Outlook 2011 for Mac with Notification Center
 
 [![GitHub release](https://img.shields.io/github/release/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/archive/master.zip) 
-[![GitHub commits](https://img.shields.io/github/commits-since/adamdehaven/outlook-2011-notification-center/v1.0.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/commits/master) 
+[![GitHub commits](https://img.shields.io/github/commits-since/adamdehaven/outlook-2011-notification-center/v1.0.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/compare/v1.0...master) 
 [![GitHub issues](https://img.shields.io/github/issues/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/issues) 
 [![license](https://img.shields.io/github/license/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://raw.githubusercontent.com/adamdehaven/outlook-2011-notification-center/master/LICENSE)
 
