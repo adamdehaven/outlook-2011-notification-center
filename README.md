@@ -1,5 +1,10 @@
 # Integrate Outlook 2011 for Mac with Notification Center
 
+[![GitHub release](https://img.shields.io/github/release/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/archive/master.zip) 
+[![GitHub commits](https://img.shields.io/github/commits-since/adamdehaven/outlook-2011-notification-center/v1.0.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/commits/master) 
+[![GitHub issues](https://img.shields.io/github/issues/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://github.com/adamdehaven/outlook-2011-notification-center/issues) 
+[![license](https://img.shields.io/github/license/adamdehaven/outlook-2011-notification-center.svg?maxAge=3600)](https://raw.githubusercontent.com/adamdehaven/outlook-2011-notification-center/master/LICENSE)
+
 Since I'm in the corporate world now, my Mac is one out of probably ten Macs working in a Windows-only environment. That being said, I'm essentially left on my own to figure out hacks and other workarounds to be productive. 
 
 My employer's email, like many others in corporate America, runs off an Exchange Server. Since our version of Exchange isn't supported by Office 365 (not to mention I don't have an Office 365 account) I am left with running Outlook 2011 for Mac rather than the freshly-released Outlook 2016.
